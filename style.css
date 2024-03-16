@@ -9,7 +9,7 @@ body{
 }
 
 .container{
-    width: 400px;
+    width: 30vw;
     padding: 25px 35px;
     position: absolute;
     top: 50%;
@@ -35,16 +35,17 @@ body{
     margin: 10px 0 20px 0;
 }
 .container button{
-    width: 100%;
+    width: 80%;
     height: 50px;
-    background: #494eea;
+    background: #000000;
     color: #fff;
     border: 0;
     outline: 0;
     border-radius: 5px;
     cursor: pointer;
-    margin: 20px 0;
+    margin: 20px 35px;
     font-weight: 500;
+    font-size: 20px;
 }
 
 #imgBox{
